@@ -12,10 +12,10 @@ Right now I'm extending that foundation into machine learning and generative AI 
 same instinct applied to models rather than queries: knowing what a result can and
 cannot be trusted to say.
 
-🌍 Based in Essen, Germany
-🌱 Finishing a WBS data science and AI bootcamp
-🔭 Building toward ML and GenAI — currently working through IBM Generative AI professional Certificate
-💬 Happy to talk about SQL, python, experimental design, database modelling, ML, or GenAI
+- 🌍 Based in Essen, Germany
+- 🌱 Finishing a WBS data science and AI bootcamp
+- 🔭 Building toward ML and GenAI — currently working through IBM Generative AI professional Certificate
+- 💬 Happy to talk about SQL, python, experimental design, database modelling, ML, or GenAI
 
 ---
 
