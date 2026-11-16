@@ -101,6 +101,7 @@ MySQL switched off.
 
 ## 📫 Find me
 
-[LinkedIn](https://linkedin.com/in/dr-muhammad-usama-b3b909208) · [Email](mailto:muhammadusamawakil@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-muhammad-usama-b3b909208)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadusamawakil@gmail.com)
 
 Thanks for stopping by.
